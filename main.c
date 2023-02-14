@@ -65,8 +65,6 @@ int main() {
   }
 
 
-  extract_colors("ab234cid*(s349*(20kd");
-
 
   // steg 2: clustering for å finne 16 farger
 
